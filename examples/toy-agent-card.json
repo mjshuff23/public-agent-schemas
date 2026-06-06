@@ -1,0 +1,8 @@
+{
+  "name": "toy_docs_reviewer",
+  "purpose": "Review documentation for clarity and missing verification steps.",
+  "allowed_actions": ["read docs", "suggest edits"],
+  "forbidden_actions": ["modify code", "change tickets", "call external systems"],
+  "handoff": "human reviewer",
+  "validation": ["all suggestions reference a document section"]
+}
