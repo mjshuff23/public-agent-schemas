@@ -56,7 +56,7 @@ I am available to discuss focused pilots around AI-assisted SDLC hardening: narr
 Portfolio and contact links can be added here:
 
 - GitHub: <https://github.com/mjshuff23>
-- Portfolio: `TODO`
+- Portfolio: <https://mjshuff23.github.io>
 
 ## License / IP Notice
 
